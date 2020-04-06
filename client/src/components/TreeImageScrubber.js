@@ -290,7 +290,7 @@ const TreeImageScrubber = ({ getScrollContainerRef, ...props }) => {
                       paddingTop: 20
                     }}
                   >
-                    trees to verify
+                    trees to verify XXX XX XXX
                   </Typography>
                 </Grid>
                 <Grid item>
